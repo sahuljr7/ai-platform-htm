@@ -1,13 +1,4 @@
-# Genius - Empowering Businesses with AI 🚀
-
-![Genius Logo](public/logo.png)
-
-## Demo
-https://aigenius.vercel.app/
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-Welcome to Genius - Your Ultimate SaaS AI Platform! 🌟
+# MultiVerse Media AI Empowering Businesses with AI 🚀
 
 ## Introduction
 
@@ -67,30 +58,7 @@ npm install
 npm run dev
 ```
 
-## Contribute
-
-We welcome contributions from the community to enhance Genius further. To contribute, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch.
-
-3. Make your changes and commit them.
-
-4. Push the changes to your fork.
-
-5. Submit a pull request to the main repository.
-
 ## Future Roadmap
 
 We are continually working on adding more exciting features and improvements to Genius. Stay tuned for updates!
 
-## License
-
-Genius is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-Have questions or suggestions? Feel free to contact our team at contact@geniusai.com or open an issue in this repository.
-
-Let's create the future of AI together! 🌐✨
